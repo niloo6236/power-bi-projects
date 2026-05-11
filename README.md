@@ -1,25 +1,61 @@
-# Power BI Analytics Projects
+# 📊 Power BI Portfolio – Data Analyst Projects
 
-This repository contains Power BI projects focused on data analysis, dashboarding, and business insights.
+This repository contains my Power BI dashboards built for data analysis and business insights.
 
-## 1. HR Analytics Dashboard
-**Tools:** Power BI, DAX, Excel  
-**Description:**  
-Developed an interactive HR analytics dashboard to analyze employee attrition, headcount, and key workforce metrics.  
-The dashboard helps identify trends and patterns to support data-driven HR decision-making.
+---
 
-**Key Features:**
-- KPI cards for headcount and attrition
-- Interactive filters and slicers
-- Visual analysis of employee demographics and trends
+# 1. HR Analytics Dashboard
 
-## 2. Business Analytics Dashboard
-**Tools:** Power BI, DAX  
-**Description:**  
-Built a Power BI dashboard to analyze business performance and key metrics.  
-Focused on clear visualization and actionable insights for stakeholders.
+## 🎯 Objective
+Analyze employee data to understand attrition and workforce trends.
 
-**Key Features:**
-- Interactive visuals
-- Trend and performance analysis
-- Clean dashboard layout for business users
+## 📊 Dashboard Preview
+![HR Dashboard](hr_dashboard.png)
+
+## 💡 Key Insights
+- Attrition patterns identified across departments  
+- Employee demographics analyzed  
+- Workforce trends visualized  
+
+---
+
+# 2. Customer Behavior Dashboard
+
+## 🎯 Objective
+Understand customer purchasing behavior and spending patterns.
+
+## 📊 Dashboard Preview
+![Customer Dashboard](customer_dashboard.png)
+
+## 💡 Key Insights
+- Customer segments identified  
+- Spending behavior analyzed  
+- Discount impact measured  
+
+---
+
+# 3. Business Analytics Dashboard
+
+## 🎯 Objective
+Analyze business performance and key KPIs.
+
+## 📊 Dashboard Preview
+![Business Dashboard](business_dashboard.png)
+
+## 💡 Key Insights
+- Revenue trends analyzed  
+- Performance KPIs tracked  
+- Business growth patterns identified  
+
+---
+
+# 🛠 Tools Used
+- Power BI  
+- DAX  
+- Power Query  
+- Excel  
+
+---
+
+# 📌 Summary
+These dashboards demonstrate my ability to analyze data and create clear, interactive business insights.
